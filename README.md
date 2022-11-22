@@ -9,6 +9,7 @@ A Discord selfbot CLI tool for carefully unfriending users on your friends list
 3. Open a terminal in the directory and run `npm install`
 4. Run `node index.js` to start the program
 5. Enter your user token when prompted.
+
 Tip: Use CTRL+SHIFT+I and paste the code below into the Console to copy your token:
 ```js
 window.webpackChunkdiscord_app.push([
