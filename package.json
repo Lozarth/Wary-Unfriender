@@ -1,0 +1,17 @@
+{
+  "name": "wary-unfriender",
+  "version": "1.0.0",
+  "description": "A CLI tool to carefully unfriend your Discord friends 1 by 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "2.9.2",
+    "chalk": "4.1.2",
+    "readline-sync": "1.4.10",
+    "open": "8.4.0"
+  },
+  "author": "github.com/Lozarth",
+  "license": "MIT"
+}
