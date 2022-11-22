@@ -4,7 +4,7 @@ A Discord selfbot CLI tool for carefully unfriending users on your friends list
 ![Preview](https://i.imgur.com/F6Tk9u4.png)
 
 ## Warning
-I am not liable for any damage caused by this tool, although it is unlikely, your account may be deactivated or banned by Discord via the use of this tool.
+I am not liable for any damage caused by this tool, although it is unlikely, your account may be deactivated or banned by Discord via the use of this tool. This tool is distributed under the MIT license.
 
 ## Installation
 1. Install [Node.js](https://nodejs.org/en/download/)
