@@ -17,7 +17,7 @@ console.log(`
 `)
 
 client.on('ready', async () => {
-    console.log(`Logged in as ${client.user.tag}`)
+    console.log(`Logged in as ${chalk.bold(client.user.tag)}`)
 
     const friends = client.relationships.cache.filter(relationshipType => relationshipType === 1) // 1 = friend
 
