@@ -1,5 +1,6 @@
 # Wary-Unfriender
 A Discord selfbot CLI tool for carefully unfriending users on your friends list
+
 ![Preview](https://i.imgur.com/F6Tk9u4.png)
 
 ## Installation
